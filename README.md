@@ -21,18 +21,6 @@ Projelerim Exercism tarafından otomatik olarak senkronize edilmektedir. Genel y
 
 ---
 
-## 🏗️ Öne Çıkan Çözümler
-
-### 1. Lasagna (C++)
-- **Kazanım:** Fonksiyonlar ve temel zaman hesaplama mantığı.
-- **Dosyalar:** `lasagna.cpp`, `lasagna.h`
-
-### 2. Hello World (C++)
-- **Kazanım:** Namespace yönetimi ve header/source dosya ayrımı.
-- **Dosyalar:** `hello_world.cpp`, `hello_world.h`
-
----
-
 ## 👤 Hakkımda
 
 **Nurettin Deniz** *Düzce Üniversitesi - Bilgisayar Mühendisliği Öğrencisi*
